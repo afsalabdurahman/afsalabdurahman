@@ -9,7 +9,8 @@ I'm **Afsal KP**, a Full Stack Web Developer passionate about crafting modern, r
 
 > "Code with purpose. Build with precision."
 
-<a href="https://www.linkedin.com/in/afsal-kp/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/afsal-abdurahman-452720193?trk=contact-info
+/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <details>
   <summary>More about me</summary>
