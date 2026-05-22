@@ -64,10 +64,10 @@ I'm **Afsal KP**, a Full Stack Web Developer passionate about crafting modern, r
 
 <h2 id="Projects" align=''> Projects </h2>
 
-| **Project**      | **Description**                                                                                  |
-|-------------------|--------------------------------------------------------------------------------------------------|
-| **Portfolio Site** | Personal website showcasing projects, skills, and blog using React and Tailwind. |
-| **E-Commerce App** | Full-featured MERN stack e-commerce site with payment gateway integration. |
-| **Chat App**        | Real-time chat application built with React, Node.js, and Socket.io. |
-
+| **Project** | **Description** |
+|---|---|
+| **Portfolio Site** | Personal portfolio website showcasing projects, technical skills, and development journey using React and Tailwind CSS. |
+| **E-Commerce App** | Full-featured MERN stack e-commerce platform with authentication, cart management, and payment gateway integration. |
+| **SyncBoard** | Project management collaboration tool with Kanban boards, task assignment, real-time updates, and team workflow management. |
+| **QuickLearn — Instant AI Explainer** | A draggable Chrome Extension that instantly explains any technical term in under 50 words without leaving the current page. |
 ---
